@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">USS</string>
+
+    <string name="contentDescription">Content Description</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_about">About USS App</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="about_university">The Govt. of NCT of Delhi established its first University with the name Guru Gobind Singh Indraprastha University in 1998. It is a teaching and affiliating University with the explicit objective of facilitating and promoting “studies, research and extension work in emerging areas of higher education with focus on professional education, for example engineering, technology, management studies, medicine, pharmacy, nursing, education, law, etc. and also to achieve excellence in these and connected fields and other matters connected therewith or incidental thereto.” \n\nIn order to serve the broad purposes for which the University was established, it set out its statements of Vision, Mission and Quality Policy which read as thus :</string>
+    <string name="vision">&quot;The University will stimulate both the hearts and minds of scholars, empower them to contribute to the welfare of society at large; train them to adopt themselves to the changing needs of the economy; advocate them for cultural leadership to ensure peace, harmony and prosperity for all.&quot;</string>
+    <string name="mission">&quot;Guru Gobind Singh Indraprastha University shall strive hard to provide a market oriented professional education to the student community of India in general and of Delhi in particular, with a view to serving the cause of higher education as well as to meet the needs of the Indian industries by promoting establishment of colleges and Schools of Studies as Centres of Excellence in emerging areas of education with focus on professional education in disciplines of engineering, technology, medicine, education, pharmacy, nursing, law, etc.&quot;</string>
+    <string name="quality_policy">&quot; Guru Gobind Singh Indraprastha University is committed to providing professional education with thrust on creativity, innovation, continuous change and motivating environment for knowledge creation and dissemination through its effective quality management system.&quot; \n\nAnd, indeed it must be a matter of great satisfaction to all of its stakeholders in general, and the faculty and students, in particular that in a short span of 13 years, the University has not only been able to earn the best of national accreditations, educational awards and acquire stringent certifications – UGC\'s recognition under Section 2 (f) and 12 (b); Graded as \'A\' by the National Assessment and Accreditation Council, Bangalore; ISO 9001 : 2000 first in 2008 and upgraded later to ISO 9001 : 2008 in 2009; and Recertified again in February, 2011 upto February, 2014; attaining AIU\'s Status of Regular Membership in November, 2008; Categorization of the University by Dun &amp; Bradstreet as \'Decide with Confidence\'; in its publication titled, \'Universities of India 2008\'; selected among 250 Top Educational Institutes in India for the Grand Book on Education, titled, \'Star Brands Education 2010\'; and, also for an International Award - \'Platinum Technology Award for Quality and Best Trade Name\' by OMAC – Association Otherways Management \' Consulting, Paris, France on December 20, 2010 in Geneva, Switzerland but has also succeeded in making its presence felt both at national and international levels. \n\nOn the affiliation front, 02 Schools of Studies, namely, School of Engineering and Technology and School of Medicine and Para Medical Health Sciences are being maintained for providing leadership role to the programmes conducted under these Schools at affiliated institutions. In all, the University has 100 affiliated institutes; of these, 76 are self financed and 24 are owned and managed by the Govt. of NCT of Delhi/Govt. of India. In these affiliated institutions, 80 academic programmes are being conducted with an intake of 22,000+ students with a total strength of 62,000+.</string>
+    <string name="Campuses">Certain distinguishing features of Dwarka Campus are State of the Art Buildings: \n- Rain Water Harvesting; \n- Sewage Treatment Plant (Recycling for flushing, air-conditioning &amp; horticulture); \n- Usage of solar energy; \n- Disabled friendly - Vehicular free pedestrian walk ways; \n- Adequate sports facilities; \n- Shopping complex; \n- Innovative landscaping; \n- Attractive exteriors, \n- Murals &amp; Sculptures. \n\nWith the commencement of the academic session 2015-16, the University has put a check on its quantitative growth; the cases of additional intake in existing programme/s and grant of affiliation to new institutions are examined quite stringently. Even so, it is open to start new academic programmes in case it is likely to augment the supply of trained manpower for the so far neglected socio-economic sector(s)/segments of population.</string>
+    <string name="rules">University administration functions while dealing with various issues of administrative and academic significance, within the provisions of the University Act, rules and regulations (Statutes &amp; Ordinances) framed thereunder. The University has notified 33 Statutes and 30 Ordinances which have not only been published in the Gazette of Delhi but have also been laid on the floor of the Legislative Assembly of Delhi. The University Act and all its Statutes as well as Ordinances have been placed on the University Website. This clearly speaks of the nature of transparency maintained by the University Administration in its functioning keeping the society at large informed not only about the academic programmes but also about all its latest rules, regulations etc.</string>
+
+    <string name="pref_last_sync">last_sync</string>
+    <string name="sync_account_type">uss.jesushghar.com</string>
+    <string name="content_authority">com.jesushghar.uss</string>
+
+
+    <string name="pref_enable_notification_label">Notices Notifications</string>
+    <string name="pref_enable_notification_key" translatable="false">enable_notifications</string>
+
+    <string name="pref_enable_notification_true">Enabled</string>
+    <string name="pref_enable_notification_false">Not Enabled</string>
+    <string name="pref_enable_notification_default" translatable="false">true</string>
+
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.jesushghar.uss.activities.AboutActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" >
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/ivLogo"
+                    android:layout_width="200dp"
+                    android:layout_height="200dp"
+                    android:layout_marginTop="100dp"
+                    android:scaleType="fitCenter"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/ggsipu_logo" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ivLogo"
+                    android:orientation="vertical"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="10dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textSize="20sp"
+                        android:textAlignment="center"
+                        android:textStyle="italic"
+                        android:text="Guru Gobind Singh Indraprastha University"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textSize="30sp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="20dp"
+                        android:text="USS APP"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="20sp"
+                        android:textStyle="italic"
+                        android:layout_margin="10dp"
+                        android:textAlignment="center"
+                        android:text="USS App is developed as a minor project for the partial fulfilment of degree of M.C.A (SE)."/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="20sp"
+                        android:layout_gravity="center"
+                        android:textStyle="italic"
+                        android:layout_margin="10dp"
+                        android:text="Developed by: Pradeep Pathak"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_gravity="center"
+                        android:textAlignment="center"
+                        android:textSize="20sp"
+                        android:textStyle="italic"
+                        android:layout_margin="10dp"
+                        android:text="email: pradeeppathak9@gmail.com, jesushghar@gmail.com"/>
+                </LinearLayout>
+                            </RelativeLayout>
+
+        </ScrollView>
+
+</android.support.design.widget.CoordinatorLayout>

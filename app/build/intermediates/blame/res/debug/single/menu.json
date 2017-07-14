@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_signup.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\menu\\menu_signup.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_events.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\menu_events.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_signup.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\menu_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_events.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\menu\\menu_events.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_signup.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\menu_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_events.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\menu_events.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_home_drawer.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    }
+]

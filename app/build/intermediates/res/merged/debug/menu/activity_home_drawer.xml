@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Profile" /> -->
+
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_announcement_black_24dp"
+            android:title="Notification" />
+        <item
+            android:id="@+id/nav_bookmarks"
+            android:icon="@drawable/ic_explore_black_24dp"
+            android:title="Bookmarked" />
+        <item
+            android:id="@+id/nav_around_you"
+            android:icon="@drawable/ic_explore_black_24dp"
+            android:title="Around you" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Events" />
+        <item
+            android:id="@+id/nav_exam"
+            android:icon="@drawable/ic_subject_black_24dp"
+            android:title="Examinations" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About University" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_contact_mail_black_24dp"
+                android:title="Contact" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,86 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jesushghar.uss.Fragments.ProfileFragment">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="600px"
+            android:background="@color/colorPrimary">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/profile_image"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="bottom"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pradeep Pathak"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="30sp"
+                    android:id="@+id/textView_name" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="pradeeppathak9@gmail.com"
+                    android:textSize="18sp"
+                    android:textStyle="italic"
+                    android:layout_marginLeft="30sp"
+                    android:id="@+id/textView_email" />
+
+            </LinearLayout>
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student"
+            android:textSize="18sp"
+            android:layout_marginLeft="30sp"
+            android:id="@+id/textView_role" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="USIT"
+            android:textSize="18sp"
+            android:layout_marginLeft="30sp"
+            android:id="@+id/textView_school" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/colorPrimary">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:id="@+id/button_logout"
+            android:text="SIGNOUT"/>
+    </LinearLayout>
+</FrameLayout>

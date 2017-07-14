@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_id": "ussapp-1283",
+    "project_number": "789932215066",
+    "name": "UssApp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789932215066:android:e76432e7424a9f3a",
+        "client_id": "android:com.jesushghar.uss",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.jesushghar.uss",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789932215066-btld9mbpusar4hv36s922qq6b5t0go7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jesushghar.uss",
+            "certificate_hash": "6940547755C12682598210C26F8474B7F5E0EE7E"
+          }
+        },
+        {
+          "client_id": "789932215066-1ft85fsruj9skp4tmp7trd1g7u2l2ndh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

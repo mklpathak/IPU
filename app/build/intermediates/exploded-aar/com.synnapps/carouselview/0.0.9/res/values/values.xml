@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="boolean" name="animateOnBoundary"/>
+    <attr format="boolean" name="autoPlay"/>
+    <attr format="boolean" name="centered"/>
+    <attr format="boolean" name="disableAutoPlayOnUserInteraction"/>
+    <attr format="color" name="fillColor"/>
+    <attr name="indicatorGravity">
+        <!-- Push object to the top of its container, not changing its size. -->
+        <flag name="top" value="0x30"/>
+        <!-- Push object to the bottom of its container, not changing its size. -->
+        <flag name="bottom" value="0x50"/>
+        <!-- Push object to the left of its container, not changing its size. -->
+        <flag name="left" value="0x03"/>
+        <!-- Push object to the right of its container, not changing its size. -->
+        <flag name="right" value="0x05"/>
+        <!-- Place object in the vertical center of its container, not changing its size. -->
+        <flag name="center_vertical" value="0x10"/>
+        <!-- Place object in the horizontal center of its container, not changing its size. -->
+        <flag name="center_horizontal" value="0x01"/>
+        <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+        <flag name="center" value="0x11"/>
+        <!-- Push object to the beginning of its container, not changing its size. -->
+        <flag name="start" value="0x00800003"/>
+        <!-- Push object to the end of its container, not changing its size. -->
+        <flag name="end" value="0x00800005"/>
+    </attr>
+    <attr format="dimension" name="indicatorMarginHorizontal"/>
+    <attr format="dimension" name="indicatorMarginVertical"/>
+    <attr name="indicatorOrientation">
+        <enum name="horizontal" value="0"/>
+        <enum name="vertical" value="1"/>
+    </attr>
+    <attr format="color" name="pageColor"/>
+    <attr format="integer" name="pageTransformInterval"/>
+    <attr name="pageTransformer">
+        <enum name="flow" value="0"/>
+        <enum name="depth" value="1"/>
+        <enum name="zoom" value="2"/>
+        <enum name="slide_over" value="3"/>
+    </attr>
+    <attr format="dimension" name="radius"/>
+    <attr format="integer" name="slideInterval"/>
+    <attr format="boolean" name="snap"/>
+    <attr format="color" name="strokeColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">
+        @color/vpi__bright_foreground_holo_light
+    </color>
+    <color name="vpi__bright_foreground_inverse_holo_light">
+        @color/vpi__bright_foreground_holo_dark
+    </color>
+    <declare-styleable name="CarouselView"><attr name="slideInterval"/><attr name="indicatorGravity"/><attr name="indicatorOrientation"/><attr name="fillColor"/><attr name="pageColor"/><attr name="radius"/><attr name="snap"/><attr name="strokeColor"/><attr name="strokeWidth"/><attr name="autoPlay"/><attr name="disableAutoPlayOnUserInteraction"/><attr name="indicatorMarginHorizontal"/><attr name="indicatorMarginVertical"/><attr name="pageTransformInterval"/><attr name="pageTransformer"/><attr name="animateOnBoundary"/></declare-styleable>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr name="fillColor"/><attr name="pageColor"/><attr name="android:orientation"/><attr name="radius"/><attr name="snap"/><attr name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/></declare-styleable>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+    <dimen name="default_indicator_margin_horizontal">10dp</dimen>
+    <dimen name="default_indicator_margin_vertical">25dp</dimen>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <string name="app_name">CarouselView</string>
+</resources>

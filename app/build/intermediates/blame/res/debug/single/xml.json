@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_toolbar.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\settings_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_toolbar.xml",
+        "source": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\src\\main\\res\\xml\\settings_toolbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings_toolbar.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\settings_toolbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "D:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "E:\\AndroidProjects\\USS\\app\\src\\main\\res\\xml\\pref_general.xml"
+    }
+]

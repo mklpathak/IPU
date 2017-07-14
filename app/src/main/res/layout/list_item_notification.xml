@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="10"
+    android:layout_marginTop="5dp">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="7"
+            android:layout_height="wrap_content"
+            android:text="Title/Notices"
+            android:textSize="15dp"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/notification_list_title" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Uploading date"
+            android:gravity="right"
+            android:textSize="15dp"
+            android:id="@+id/notification_list_date" />
+
+</LinearLayout>

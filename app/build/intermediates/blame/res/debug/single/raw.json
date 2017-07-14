@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\pat\\.android\\build-cache\\027780f8ee4ec4e38acd524686deb6568014925a\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "E:\\AndroidProjects\\USS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\Mukul\\AndroidStudioProjects\\USS\\USS\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Android\\.android\\build-cache\\ad96b03f4bfb0f965db5949ba319973c0162db51\\output\\res\\raw\\gtm_analytics"
+    }
+]
